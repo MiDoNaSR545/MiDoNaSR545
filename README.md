@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is MiDoNaSR's GitHub.</h2>
 
 [![MiSoNaSR github stats](https://github-readme-stats.vercel.app/api?username=MiDoNaSR545)](https://github.com/MiDoNaSR545)
