@@ -1,7 +1,21 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is MiDoNaSR's GitHub.</h2>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![MiSoNaSR github stats](https://github-readme-stats.vercel.app/api?username=MiDoNaSR545)](https://github.com/MiDoNaSR545)
+![](https://visitor-badge.glitch.me/badge?page_id=MiDoNaSR545.MiDoNaSR545)
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DMiDoNaSR545&longCache=true)](https://github.com/MiDoNaSR545)
+<br />
 
-![Profile visit badge](https://komarev.com/ghpvc/?username=MiDoNaSR545&style=flat-square)
+Hi, I'm [MIDoNaSR] and welcome to my area
+
+  <img align="right" alt="GIF" src="https://github.com/MiDoNaSR545/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/MiDoNaSR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="MiDoNaSR545" />
+
+
+
+
