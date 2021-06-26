@@ -6,11 +6,11 @@
 
 Hi, I'm MIDoNaSR and welcome to my area
 
-  <img align="right" alt="GIF" src="https://github.com/MiDoNaSR545/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/MiDoNaSR545/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
   
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/MiDoNaSR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="85" ></a>
+<a href="https://www.buymeacoffee.com/MiDoNaSR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 My GitHub Stats
 
