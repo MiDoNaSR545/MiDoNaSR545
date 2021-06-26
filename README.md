@@ -4,7 +4,7 @@
 
 <br />
 
-Hi, I'm [MIDoNaSR] and welcome to my area
+Hi, I'm MIDoNaSR and welcome to my area
 
   <img align="right" alt="GIF" src="https://github.com/MiDoNaSR545/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -14,7 +14,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="MiDoNaSR545" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiDoNaSR545&show_icons=true&theme=gotham" alt="MiDoNaSR545" />
 
 
 
